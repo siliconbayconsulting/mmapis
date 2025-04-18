@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+motor==2.5.1
+pymongo[srv]
+python-dotenv
